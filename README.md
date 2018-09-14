@@ -2,7 +2,7 @@
 Advertiser test data generator for media mix training and testing
 
 The purpose is to create near realistic data for marketing effectiveness measurement.
-Then use the artificially generated data to apply various modeling technique to see test how different assumption can affect modeling areas such as:
+Then use the artificially generated data to apply various modeling technique to test how different assumptions can affect modeling areas such as:
 - attribution
 - meadia mix model
 - marketing response modeling
